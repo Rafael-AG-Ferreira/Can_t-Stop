@@ -2,3 +2,7 @@
 Can't Stop Board Game
 
 First Programming Project from Computer Science Graduation (2020)
+
+Team:
+
+@Rafael-AG-Ferreira
